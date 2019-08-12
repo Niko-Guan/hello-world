@@ -9,7 +9,7 @@ there is the updates here!
     :numbered:
     
     upload
-
+    install
 #    install
 #    tutorial
 #    context
